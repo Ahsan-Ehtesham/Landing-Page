@@ -7,6 +7,7 @@
 
 body {
   font-family: "Spartan";
+  background: #ccc;
 }
 
 .navbar {
@@ -21,5 +22,29 @@ body {
 
 .nav-item .active:hover {
   color: white;
+}
+
+.carousel-inner {
+  height: 700px;
+}
+
+.carousel-caption {
+  color: springgreen !important;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.card-body {
+  border-radius: 15px;
+}
+
+.card-body .upper-text {
+  color: springgreen;
+}
+
+.card-body .btn {
+  background-color: springgreen;
 }
 /*# sourceMappingURL=style.css.map */
