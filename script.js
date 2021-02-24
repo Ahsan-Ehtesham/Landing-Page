@@ -1,6 +1,6 @@
 $(document).ready(function () {
   $(".carousel").carousel({
-    interval: 200,
+    interval: 2000,
   });
   (function ($) {
     $.fn.countTo = function (options) {
